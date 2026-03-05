@@ -1,4 +1,4 @@
-## 👥 AQI Agent — Group Project
+##  AQI Agent — Group Project
 
 This component was developed as a team project.
 
@@ -10,7 +10,7 @@ Group Members:
 4. Rithika Reddy — GitHub: rithikareddy22
 
 
-## 👩‍💻 Individual Programming Assignments
+##  Individual Programming Assignments
 
 The following programs were implemented individually:
 
@@ -21,3 +21,4 @@ The following programs were implemented individually:
 BY: Preethi Uyyuru- SE24UCSE047
 
 GitHub: preethiuyyuru
+
