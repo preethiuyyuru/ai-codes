@@ -18,5 +18,6 @@ The following programs were implemented individually:
 2. CAPTCHA System
 3. BFS & DFS — Water Jug Problem
 
-BY: Sameeksha Reddy- SE24UCSE030
-GitHub: sameeksha-reddy4
+BY: Preethi Uyyuru- SE24UCSE047
+
+GitHub: preethiuyyuru
